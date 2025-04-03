@@ -18,6 +18,7 @@ You will need to go to the AWS console and create an account: https://aws.amazon
 Note that Lambda  is free.
 
 ### Create an AWS Lambda function
+
 Create a new Lambda function in your AWS account. The Lambda function name should be ***`CIS470-Activity-6`***.
 
 
